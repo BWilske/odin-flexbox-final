@@ -1,0 +1,77 @@
+
+/* header */
+.header-background {
+    display: flex;
+    flex-direction: column;
+}
+.headerbox{
+    flex-direction: row;
+    display: flex;
+}
+
+.header-logo {
+    margin-right: auto;
+}
+
+.oops-wheres-my-margin {
+    margin: 0 100px;
+}
+
+/* lower header */
+
+.holds-first-section-columns {
+    display: flex;
+    flex-direction: row;
+}
+
+.right-column {
+    width: 300px;
+    height: 200px;
+    border: solid red 1px ;
+    border-radius: 5px;
+    margin-left: auto;
+}
+
+/* hero */
+
+.herobox-background {
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+
+.hero-main-content {
+    display: flex;
+}
+
+h2 {
+    justify-content: center;
+    display: flex;
+}
+
+.hero-column-holder {
+    display:flex;
+    flex-direction: column;
+    padding: 0px 100px;
+}
+
+.heropic {
+    width: 100px;
+    height: 100px;
+    border: solid red 5px;
+}
+
+.quote-wrapper {
+    margin: 0 25%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* .inspiring-quote {
+    
+} */
+
+.quote-attribution {
+    margin-left: auto;
+}
+
